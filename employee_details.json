@@ -1,0 +1,13 @@
+{
+	"name": "Thomas",
+	"Age": 34,
+	
+	"Occupation": "Software Developer",
+	    "Address": ["114_South Buchanan Boulevard Duke Box 90790Durham","NC 27708",{"ph": "(919)681-8472","fax": "(919)681-8492"}] ,
+	    "hobbies": ["reading","writing","Cycling"],
+	    "Skills": [{"programming": ["java","python"],"database": ["mysql","postgreSQl"],"Devops Tools": [{"configuration managment":["Ansibl","puppet"] },"git",{"virtualization":[{"Docker":[{"k8s":"50% covered","swarn":"90%covered","coreOS":""}]},"LXC"]}] }],
+	    "IQ":"122.55",
+	    "Hike eligible":true
+	    
+	    
+}
